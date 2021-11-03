@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">telaLogin</string>
+    <string name="sing_in">Sing in</string>
+    <string name="sing_up">Sing up</string>
+    <string name="text_login">SIGN IN</string>
+    <string name="text_hint_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_now">Register now!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="e_mail_addres">E-mail address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="show_films">Show films</string>
+</resources>
