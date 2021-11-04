@@ -11,6 +11,7 @@ class AccountActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_account)
 
+
         val textoRecuperado = intent.getStringExtra("")
         tv_nome_usuario.text = textoRecuperado
 

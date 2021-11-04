@@ -16,18 +16,10 @@ class LoginActivity : AppCompatActivity() {
         btn_show_films.setOnClickListener {
 
             validFields()
-
-            val intent4 = Intent(applicationContext, AccountActivity::class.java)
-            val params = Bundle()
-            val textoDigitado = tv_username_signin.text.toString()
-            params.putString("",textoDigitado)
-            intent4.putExtras(params)
-            startActivity(intent4)
         }
-
     }
 
-    fun validFields() {
+    private fun validFields() {
 
         if (tv_username_signin.text.isNullOrEmpty() && tv_password_signin.text.isNullOrEmpty()){
             tv_username_signin.error = "Campo inválido"
@@ -39,7 +31,13 @@ class LoginActivity : AppCompatActivity() {
         }else {
             val intent = Intent(this, AccountActivity::class.java)
             startActivity(intent)
+            val intent4 = Intent(applicationContext, AccountActivity::class.java)
+            val params = Bundle()
+            val textoDigitado = tv_username_signin.text.toString()
+            params.putString("",textoDigitado)
+            intent4.putExtras(params)
+            startActivity(intent4)
         }
     }
-    
+
 }
