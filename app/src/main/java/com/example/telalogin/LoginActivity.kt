@@ -8,7 +8,6 @@ import kotlinx.android.synthetic.main.activity_option.btn_show_films
 
 class LoginActivity : AppCompatActivity() {
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
@@ -16,6 +15,12 @@ class LoginActivity : AppCompatActivity() {
         btn_show_films.setOnClickListener {
 
             validFields()
+        }
+
+        txt_forgot_password.setOnClickListener {
+
+            val intent5 = Intent(this, PasswordActivity::class.java)
+            startActivity(intent5)
         }
     }
 

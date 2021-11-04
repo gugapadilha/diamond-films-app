@@ -27,6 +27,7 @@
         <activity android:name=".RegisterActivity" />
         <activity android:name=".AccountActivity" />
         <activity android:name=".FilmsActivity" />
+        <activity android:name=".PasswordActivity" />
 
     </application>
 
