@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_account.*
-import kotlinx.android.synthetic.main.activity_option.btn_show_films
+import kotlinx.android.synthetic.main.activity_option.btn_send_email
 
 class AccountActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,7 +16,7 @@ class AccountActivity : AppCompatActivity() {
         tv_nome_usuario.text = textoRecuperado
 
 
-        btn_show_films.setOnClickListener {
+        btn_send_email.setOnClickListener {
 
             val intent3 = Intent(this, FilmsActivity::class.java)
             startActivity(intent3)
