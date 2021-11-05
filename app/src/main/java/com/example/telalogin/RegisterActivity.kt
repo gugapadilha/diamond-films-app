@@ -27,7 +27,7 @@ class RegisterActivity : AppCompatActivity() {
                     tv_username_signin.error = "Campo inválido"
                 } else if (tv_password_signin.text.isNullOrEmpty()) {
                     tv_password_signin.error = "Campo inválido"
-                }else if (tv_email_register.text.isNullOrEmpty() || !tv_password_signin.text.contains("@")){
+                }else if (tv_email_register.text.isNullOrEmpty() || !tv_email_register.text!!.contains("@")){
                     tv_email_register.error = "Campo inválido"
                 }else {
                     val intent = Intent(this, LoginActivity::class.java)
