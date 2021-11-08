@@ -19,7 +19,6 @@
    + Kotlin
    + Android
   
-  
    ### Imagens do projeto:
   <br>
   
