@@ -10,7 +10,7 @@ class PasswordActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_password)
 
-        btn_send_email.setOnClickListener {
+        btn_singin.setOnClickListener {
 
             if (tv_username_signin.text.isNullOrEmpty() && (tv_password_signin.text.isNullOrEmpty())){
                 tv_username_signin.error = "Campo inválido"

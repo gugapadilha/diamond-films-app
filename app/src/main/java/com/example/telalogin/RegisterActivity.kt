@@ -29,7 +29,10 @@ class RegisterActivity : AppCompatActivity() {
                     tv_password_signin.error = "Campo inválido"
                 }else if (tv_email_register.text.isNullOrEmpty() || !tv_email_register.text!!.contains("@")){
                     tv_email_register.error = "Campo inválido"
-                }else {
+                }else if (tv_password_signin.length() < 6) {
+                    tv_password_signin.error = "Senha fraca!"
+                }
+                else {
                     val intent = Intent(this, LoginActivity::class.java)
                     startActivity(intent)
                 }

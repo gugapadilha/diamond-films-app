@@ -4,7 +4,9 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_login.*
-import kotlinx.android.synthetic.main.activity_option.btn_send_email
+import kotlinx.android.synthetic.main.activity_login.tv_password_signin
+import kotlinx.android.synthetic.main.activity_login.tv_username_signin
+import kotlinx.android.synthetic.main.activity_option.btn_singin
 
 class LoginActivity : AppCompatActivity() {
 
@@ -12,7 +14,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        btn_send_email.setOnClickListener {
+        btn_singin.setOnClickListener {
 
             validFields()
         }
@@ -33,6 +35,8 @@ class LoginActivity : AppCompatActivity() {
             tv_username_signin.error = "Campo inválido"
         } else if (tv_password_signin.text.isNullOrEmpty()) {
             tv_password_signin.error = "Campo inválido"
+        }else if (tv_password_signin.length() < 6 ) {
+            tv_password_signin.error = "Senha fraca!"
         }else {
             val intent = Intent(this, AccountActivity::class.java)
             startActivity(intent)

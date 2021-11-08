@@ -8,7 +8,7 @@
     tools:context=".LoginActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/btn_send_email"
+        android:id="@+id/btn_singin"
         android:layout_width="220dp"
         android:layout_height="60dp"
         android:layout_marginTop="50dp"

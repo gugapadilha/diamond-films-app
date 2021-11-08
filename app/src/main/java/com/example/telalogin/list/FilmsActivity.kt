@@ -1,8 +1,10 @@
-package com.example.telalogin
+package com.example.telalogin.list
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.telalogin.FilmeAdapter
+import com.example.telalogin.R
 import kotlinx.android.synthetic.main.activity_films.*
 
 class FilmsActivity : AppCompatActivity() {

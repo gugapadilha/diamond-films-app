@@ -1,4 +1,4 @@
-package com.example.telalogin
+package com.example.telalogin.list
 
 data class Filme(
     val nome: String,

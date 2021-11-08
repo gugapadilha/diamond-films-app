@@ -43,7 +43,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/btn_send_email"
+        android:id="@+id/btn_singin"
         android:layout_width="220dp"
         android:layout_height="60dp"
         android:layout_marginTop="32dp"
@@ -73,7 +73,7 @@
         android:background="@drawable/custom_button2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_send_email">
+        app:layout_constraintTop_toBottomOf="@+id/btn_singin">
 
         <TextView
             android:id="@+id/btn_cadastro"

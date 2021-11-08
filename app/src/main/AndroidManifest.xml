@@ -26,7 +26,7 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".AccountActivity" />
-        <activity android:name=".FilmsActivity" />
+        <activity android:name=".list.FilmsActivity" />
         <activity android:name=".PasswordActivity" />
 
     </application>
