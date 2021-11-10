@@ -8,16 +8,22 @@
   <br>
   
   <strong>Principais caracteristicas do projeto: </strong>
-  
   + Imagens
   + Listas 
   + Login/Register
   + Catálogos
   + Validações
+  + Implementações
   
   <strong>Tecnologias usadas: </strong>
    + Kotlin
    + Android
+  
+  <strong> Atualizações sendo feitas: </strong>
+  + Consumindo uma nova API
+  + Acesso a cadastro registrados
+  + Mostrar a foto e os dados cadastrados
+  
   
    ### Imagens do projeto:
   
