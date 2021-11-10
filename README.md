@@ -15,14 +15,16 @@
   + Validações
   + Implementações
   
-  <strong>Tecnologias usadas: </strong>
-   + Kotlin
-   + Android
   
   <strong> Atualizações sendo feitas: </strong>
   + Consumindo uma nova API
   + Acesso a cadastro registrados
   + Mostrar a foto e os dados cadastrados
+  
+  
+  <strong>Tecnologias usadas: </strong>
+   + Kotlin
+   + Android 
   
   
    ### Imagens do projeto:
