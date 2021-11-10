@@ -8,18 +8,18 @@
   <br>
   
   <strong>Principais caracteristicas do projeto: </strong>
-  + Imagens
-  + Listas 
-  + Login/Register
-  + Catálogos
-  + Validações
-  + Implementações
+  + Imagens;
+  + Listas ;
+  + Login/Register;
+  + Catálogos;
+  + Validações;
+  + Implementações.
   
   
   <strong> Atualizações sendo feitas: </strong>
-  + Consumindo uma nova API
-  + Acesso a cadastro registrados
-  + Mostrar a foto e os dados cadastrados
+  + Consumindo uma nova API;
+  + Acesso a cadastro registrados;
+  + Mostrar a foto e os dados cadastrados.
   
   
   <strong>Tecnologias usadas: </strong>
