@@ -19,7 +19,8 @@
   <strong> Atualizações sendo feitas: </strong>
   + Consumindo uma nova API;
   + Acesso a cadastro registrados;
-  + Mostrar a foto e os dados cadastrados.
+  + Mostrar a foto e os dados cadastrados;
+  + Mostrar lista de filmes buscados.
   
   
   <strong>Tecnologias usadas: </strong>
