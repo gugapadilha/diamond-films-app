@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient_backgroung"
-    tools:context=".LoginActivity">
+    tools:context=".ui.login.LoginActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/btn_register"
@@ -40,7 +40,7 @@
         android:background="@drawable/custom_button"
         android:drawableStart="@drawable/ic_baseline_info_24"
         android:drawablePadding="10dp"
-        android:hint="Password"
+        android:hint="@string/password"
         android:inputType="textPassword"
         android:padding="20dp"
         android:textColor="#000"
@@ -48,7 +48,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.473"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_username_signin" />
+        app:layout_constraintTop_toBottomOf="@+id/tv_cpf_signin" />
 
     <com.google.android.material.textfield.TextInputEditText
         android:id="@+id/tv_email_register"
@@ -60,7 +60,7 @@
         android:background="@drawable/custom_button"
         android:drawableStart="@drawable/ic_baseline_email_24"
         android:drawablePadding="10dp"
-        android:hint="E-mail Adress"
+        android:hint="@string/e_mail_adress"
         android:inputType="textPassword"
         android:padding="20dp"
         android:textColor="#000"
@@ -94,7 +94,7 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView8" />
 
     <EditText
-        android:id="@+id/tv_username_signin"
+        android:id="@+id/tv_cpf_signin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
@@ -103,7 +103,7 @@
         android:background="@drawable/custom_button"
         android:drawableStart="@drawable/ic_baseline_person_outline_24"
         android:drawablePadding="10dp"
-        android:hint="@string/text_hint_username"
+        android:hint="@string/cpf"
         android:padding="20dp"
         android:textColor="#000"
         android:textColorHint="#000"
