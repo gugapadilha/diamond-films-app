@@ -8,16 +8,25 @@
   <br>
   
   <strong>Principais caracteristicas do projeto: </strong>
+  + Imagens;
+  + Listas ;
+  + Login/Register;
+  + Catálogos;
+  + Validações;
+  + Implementações.
   
-  + Imagens
-  + Listas 
-  + Login/Register
-  + Catálogos
-  + Validações
+  
+  <strong> Atualizações sendo feitas: </strong>
+  + Consumindo uma nova API;
+  + Acesso a cadastro registrados;
+  + Mostrar a foto e os dados cadastrados;
+  + Mostrar lista de filmes buscados.
+  
   
   <strong>Tecnologias usadas: </strong>
    + Kotlin
-   + Android
+   + Android 
+  
   
    ### Imagens do projeto:
   
