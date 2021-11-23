@@ -32,7 +32,7 @@
   
   <br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/140611458-c8aa2c58-9be9-4089-a6ab-4306e6d27cf1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/143046620-294f7542-bd73-4b7e-ad4b-26f59bb5412a.png)
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/140611464-5fbd2d22-eda3-4663-820b-47f0607d8b98.png)
   <br>
