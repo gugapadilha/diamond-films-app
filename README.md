@@ -42,4 +42,4 @@
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela5](https://user-images.githubusercontent.com/79876042/143047161-944598af-841f-41f5-9b67-871199f080fa.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela6](https://user-images.githubusercontent.com/79876042/140611489-3e2b0fbb-ed8a-4828-88aa-119cf17cdcd9.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela6](https://user-images.githubusercontent.com/79876042/143047300-ad12ec5f-7314-4051-868d-873249f5d952.png)
