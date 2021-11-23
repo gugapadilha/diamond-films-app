@@ -5,15 +5,19 @@
       <map>
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/container_user.xml" value="0.17314814814814813" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/custom_button.xml" value="0.175" />
+        <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/custom_button2.xml" value="0.17407407407407408" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/custom_picture.xml" value="0.17037037037037037" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/custom_stroke.xml" value="0.175" />
+        <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/gradient_backgroung.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/ic_diamond_background.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/drawable/ic_diamond_foreground.xml" value="0.17407407407407408" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/activity_account.xml" value="0.264" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/activity_films.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/activity_option.xml" value="0.264" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/activity_password.xml" value="0.264" />
         <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/activity_register.xml" value="0.264" />
-        <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/item_filmes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/gusta/Desktop/filmsAndroidProject/app/src/main/res/layout/item_filmes.xml" value="0.264" />
         <entry key="..\:/Users/gusta/Desktop/telaLogin/app/src/main/res/drawable/container_user.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/gusta/Desktop/telaLogin/app/src/main/res/drawable/custom_button.xml" value="0.1787037037037037" />
         <entry key="..\:/Users/gusta/Desktop/telaLogin/app/src/main/res/drawable/custom_button2.xml" value="0.17592592592592593" />

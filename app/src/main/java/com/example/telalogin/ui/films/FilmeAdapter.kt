@@ -27,9 +27,8 @@ class FilmeAdapter(var context: Context): RecyclerView.Adapter<FilmeAdapter.View
         val films = filmes[position]
 
         holder.name.text = films.name
-
-        //holder.genero.text = films.genero
-        //holder.tempo.text = films.tempoDeFilme
+        holder.genero.text = films.genero
+        holder.duracao.text = films.duracao
 
         //photo picasso
         Picasso.with(context).load(films.imageUrl).into(holder.foto)
@@ -42,8 +41,8 @@ class FilmeAdapter(var context: Context): RecyclerView.Adapter<FilmeAdapter.View
 
             val name = itemView.tv_nameFilm
             val foto = itemView.iv_photo
-//            val genero = itemView.tv_genderFilm
-//            val tempo = itemView.tv_timeFilm
+            val genero = itemView.tv_genero_film
+            val duracao = itemView.tv_tempo
 
         }
 

@@ -19,12 +19,12 @@ class ApiUseCaseImpl(
     }
 
     override suspend fun getFilms(): List<FilmsResponse> {
-       var listFIlms = mutableListOf<FilmsResponse>()
-        listFIlms.add(FilmsResponse(1, "https://s2.glbimg.com/dNPTSLB6TmhYYv5iJpBiRMBc_4I=/0x0:1581x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/h/z/FfZwA1QTuvcFbraTjoqQ/sem-titulo.png", "a espera de um milagre"))
-        listFIlms.add(FilmsResponse(2, "https://s2.glbimg.com/dNPTSLB6TmhYYv5iJpBiRMBc_4I=/0x0:1581x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/h/z/FfZwA1QTuvcFbraTjoqQ/sem-titulo.png", "a espera de um xisdead"))
-        listFIlms.add(FilmsResponse(3, "https://s2.glbimg.com/dNPTSLB6TmhYYv5iJpBiRMBc_4I=/0x0:1581x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/h/z/FfZwA1QTuvcFbraTjoqQ/sem-titulo.png", "a espera de um xisburguer"))
-        listFIlms.add(FilmsResponse(4, "https://s2.glbimg.com/dNPTSLB6TmhYYv5iJpBiRMBc_4I=/0x0:1581x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/h/z/FfZwA1QTuvcFbraTjoqQ/sem-titulo.png", "a espera de um chevete"))
-        listFIlms.add(FilmsResponse(5, "https://s2.glbimg.com/dNPTSLB6TmhYYv5iJpBiRMBc_4I=/0x0:1581x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/h/z/FfZwA1QTuvcFbraTjoqQ/sem-titulo.png", "a espera de um messi"))
+       val listFIlms = mutableListOf<FilmsResponse>()
+        listFIlms.add(FilmsResponse(1, "https://i.ytimg.com/vi/iKGjGh88iOY/maxresdefault.jpg", "Velozes e Furiosos 9 ", "Gênero: Ação", "Duração: 2h5m"))
+        listFIlms.add(FilmsResponse(2, "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/halloween-kills-1.jpg", "Halloween a Caça Continua", "Gênero: Terror/Suspense", "Duração: 1h55m"))
+        listFIlms.add(FilmsResponse(3, "https://i2.wp.com/www.ultraverso.com.br/wp-content/uploads/2021/04/Mundo-em-Caos-Chaos-Walking-filme-critica-review-resenha.jpeg?fit=1200%2C675&ssl=1", "Mundo em Caos", " Gênero: Drama/Ação", "Duração: 1h45m"))
+        listFIlms.add(FilmsResponse(4, "https://cdn.ome.lt/FZR-pZjVVokTtb4tdlILRKIVwCU=/1200x630/smart/extras/conteudos/alerta_vermelho_dM5rHz2.PNG", "Alerta Vermelho", "Gênero: Ação/Comédia", "Duração: 1h55m"))
+        listFIlms.add(FilmsResponse(5, "https://www.quadroporquadro.com.br/wp-content/uploads/2021/06/20201021-o-homem-nas-trevas-2.jpg", "Homem das Trevas 2", "Gênero: Suspense/Drama", "Duração: 1h35m"))
 
         return listFIlms
     }

@@ -2,9 +2,6 @@ package com.example.telalogin.ui.login
 
 import android.content.Intent
 import android.os.Bundle
-import android.text.Editable
-import android.text.TextWatcher
-import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
 import com.example.telalogin.R
 import com.example.telalogin.ui.AccountActivity
@@ -12,6 +9,8 @@ import com.example.telalogin.ui.PasswordActivity
 import com.example.telalogin.utils.saveUser
 import kotlinx.android.synthetic.main.activity_login.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
+import java.lang.StringBuilder
+
 
 class LoginActivity : AppCompatActivity() {
 
@@ -24,6 +23,7 @@ class LoginActivity : AppCompatActivity() {
         btn_singin.setOnClickListener {
 
             validFields()
+
         }
 
         txt_forgot_password.setOnClickListener {
@@ -54,5 +54,16 @@ class LoginActivity : AppCompatActivity() {
             }
         }
     }
+
+    fun cpf_formatado(cpf: String): String? {
+        var cpf = cpf
+        cpf = cpf.substring(0, 3) + "." + cpf.substring(3, 6) + "." + cpf.substring(
+            6,
+            9
+        ) + "-" + cpf.substring(9, 11)
+        return cpf
+
+    }
+
 }
 

@@ -5,7 +5,7 @@ import java.io.Serializable
 data class LoginResponse(
     var id: Long,
     var cpf: String,
-    var password: String, //corno retorna aqui
+    var password: String, //retorna dados depois que o usuario fez o login
     var imageUrl: String,
     var email: String,
     var name: String,
