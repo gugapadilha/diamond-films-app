@@ -34,7 +34,7 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/143046620-294f7542-bd73-4b7e-ad4b-26f59bb5412a.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/140611464-5fbd2d22-eda3-4663-820b-47f0607d8b98.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/143046779-d75b7480-c09e-45ea-9301-843201800944.png)
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela3](https://user-images.githubusercontent.com/79876042/140611470-352ebbf1-4dd7-4609-8d3e-1a137b08c8de.png)
   <br>
