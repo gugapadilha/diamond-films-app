@@ -84,6 +84,7 @@
         android:drawableStart="@drawable/ic_baseline_person_outline_24"
         android:drawablePadding="10dp"
         android:hint="@string/cpf"
+        android:inputType="number"
         android:padding="20dp"
         android:textColor="#000"
         android:textColorHint="#000"

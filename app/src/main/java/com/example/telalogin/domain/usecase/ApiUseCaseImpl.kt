@@ -15,7 +15,7 @@ class ApiUseCaseImpl(
 //        } catch (e:Exception) {
 //            throw e
 //        }
-        return LoginResponse(1, "02764295272", "adm123", "https://scontent.fccm8-1.fna.fbcdn.net/v/t39.30808-6/241635185_4135816446515952_4648329901576762777_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rOXFeasycokAX_R-ZCO&_nc_ht=scontent.fccm8-1.fna&oh=e056b4f1e866dde7ea3a4aaf3251bab8&oe=619B1646", "guga.santosapdilha@rede.ulbra.br", "guga")
+        return LoginResponse(1, "02764295272", "adm123", "https://scontent.fpoa40-1.fna.fbcdn.net/v/t39.30808-6/241220673_4135808399850090_4755564503507828519_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=2VgqvCZUqjwAX9S15Zt&_nc_ht=scontent.fpoa40-1.fna&oh=f11913e702a6e89efa3a00a503fed04e&oe=61A1F9C4", "guga.santosapdilha@rede.ulbra.br", "guga")
     }
 
     override suspend fun getFilms(): List<FilmsResponse> {
