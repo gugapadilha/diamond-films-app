@@ -32,14 +32,14 @@
   
   <br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/140611458-c8aa2c58-9be9-4089-a6ab-4306e6d27cf1.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela1](https://user-images.githubusercontent.com/79876042/143046620-294f7542-bd73-4b7e-ad4b-26f59bb5412a.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/140611464-5fbd2d22-eda3-4663-820b-47f0607d8b98.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/143046779-d75b7480-c09e-45ea-9301-843201800944.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela3](https://user-images.githubusercontent.com/79876042/140611470-352ebbf1-4dd7-4609-8d3e-1a137b08c8de.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela3](https://user-images.githubusercontent.com/79876042/143586635-46b847ae-2ea5-4fcd-a3bd-4f06896b98db.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela4](https://user-images.githubusercontent.com/79876042/140611480-14a929b2-c4e3-4412-8ffb-2403bcbe7f99.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela4](https://user-images.githubusercontent.com/79876042/143047012-d6e620b4-d7f5-47c4-916c-be4455c951cc.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela5](https://user-images.githubusercontent.com/79876042/140611484-77ce23a3-b4e4-4831-8f37-295e430dfe50.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela5](https://user-images.githubusercontent.com/79876042/143047161-944598af-841f-41f5-9b67-871199f080fa.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela6](https://user-images.githubusercontent.com/79876042/140611489-3e2b0fbb-ed8a-4828-88aa-119cf17cdcd9.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela6](https://user-images.githubusercontent.com/79876042/143047300-ad12ec5f-7314-4051-868d-873249f5d952.png)
