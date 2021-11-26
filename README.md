@@ -36,7 +36,7 @@
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela2](https://user-images.githubusercontent.com/79876042/143046779-d75b7480-c09e-45ea-9301-843201800944.png)
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela3](https://user-images.githubusercontent.com/79876042/143046896-1de449ef-a9d6-4a24-85bc-69976a263e0d.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela3](https://user-images.githubusercontent.com/79876042/143586635-46b847ae-2ea5-4fcd-a3bd-4f06896b98db.png)
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![tela4](https://user-images.githubusercontent.com/79876042/143047012-d6e620b4-d7f5-47c4-916c-be4455c951cc.png)
   <br>
