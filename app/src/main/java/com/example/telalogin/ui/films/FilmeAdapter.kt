@@ -15,14 +15,15 @@ class FilmeAdapter(var context: Context): RecyclerView.Adapter<FilmeAdapter.View
 
     var filmes = mutableListOf<FilmsResponse>()
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
+        //inflando o layout item_filmes
 
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_filmes, parent, false)
         context = parent.context
         return ViewHolder(view)
-
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
+        //tendo o viewHolder inflado, podemos bindar o viewHolder
 
         val films = filmes[position]
 
@@ -30,20 +31,17 @@ class FilmeAdapter(var context: Context): RecyclerView.Adapter<FilmeAdapter.View
         holder.genero.text = films.genero
         holder.duracao.text = films.duracao
 
-        //photo picasso
         Picasso.with(context).load(films.imageUrl).into(holder.foto)
-
     }
 
     override fun getItemCount() = filmes.size
-
+        //passa o tamanho da lista que vai ser usado
         class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
 
             val name = itemView.tv_nameFilm
             val foto = itemView.iv_photo
             val genero = itemView.tv_genero_film
             val duracao = itemView.tv_tempo
-
         }
 
     fun add(list: List<FilmsResponse>) {

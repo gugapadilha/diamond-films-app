@@ -32,7 +32,6 @@ class FilmsActivity : AppCompatActivity() {
             rv_list_films.adapter = adapter
             rv_list_films.layoutManager = LinearLayoutManager(applicationContext, LinearLayoutManager.VERTICAL, false)
             adapter.add(it)
-            adapter.notifyDataSetChanged()
         }
     }
 }
