@@ -1,7 +1,7 @@
 
 <h1> Projeto: Site de Filmes <h1> 
 
-  > Status: Finalizado
+  > Status: Finalizado ✔️
   
   ### Primeiro projeto em andamento com Kotlin fazendo uso pela primeira vez do Android Studio e do desenvolvimento de layout, usando noções basicas obtidas por um curso de desenvolvimento Android, consegui aplicar o conhecimento obtido neste aplicativo :)
   
