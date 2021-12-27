@@ -1,5 +1,5 @@
 
-<h1> Projeto: Site de Filmes <h1> 
+<h1> Projeto: Aplicativo de Filmes <h1> 
 
   > Status: Finalizado ✔️
   
