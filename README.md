@@ -9,7 +9,7 @@
   
   <strong>Principais caracteristicas do projeto: </strong>
   + Imagens;
-  + Listas ;
+  + Listas;
   + Login/Register;
   + Catálogos;
   + Validações;
