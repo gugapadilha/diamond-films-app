@@ -1,34 +1,35 @@
 
-<h1> Projeto: Aplicativo de Filmes <h1> 
+<h1> Projeto: Movies Application <h1> 
 
-  > Status: Finalizado ✔️
+  > Status: Finished ✔️
   
-  ### Primeiro projeto em andamento com Kotlin fazendo uso pela primeira vez do Android Studio e do desenvolvimento de layout, usando noções basicas obtidas por um curso de desenvolvimento Android, consegui aplicar o conhecimento obtido neste aplicativo :)
+  ### First project in progress with Kotlin making use of Android Studio and layout development for the first time, using basic notions taught by an Android development course, I was able to apply the knowledge obtained in this application :)
+
   
   <br>
   
-  <strong>Principais caracteristicas do projeto: </strong>
-  + Imagens;
-  + Listas;
+  <strong> Main Project Feature: </strong>
+  + Images;
+  + Lists;
   + Login/Register;
-  + Catálogos;
-  + Validações;
-  + Implementações.
+  + Catalog;
+  + Validations;
+  + Implementations.
   
   
-  <strong> Atualizações sendo feitas: </strong>
-  + Consumindo uma nova API;
-  + Acesso a cadastro registrados;
-  + Mostrar a foto e os dados cadastrados;
-  + Mostrar lista de filmes buscados.
+  <strong> New Atualizations </strong>
+  + Consuming new API;
+  + Acess to registered;
+  + Show photos to registered;
+  + Show list to recent movies.
   
   
-  <strong>Tecnologias usadas: </strong>
+  <strong> Technologies Used: </strong>
    + Kotlin
    + Android 
   
   
-   ### Imagens do projeto:
+   ### Images Mobile Project:
   
   <br>
   
